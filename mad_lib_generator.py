@@ -21,7 +21,7 @@ print("You will be prompted to enter different adjectives, verbs and nouns to cr
 # User guide
 
 print("Quick Guide:")
-print("\nAn adjective is a word that describes something (e.g., shiny, loud,old)")
+print("\nAn adjective is a word that describes something (e.g., shiny, loud, old)")
 print("A noun is a person, place, or thing (e.g., dog, pizza, mountain)")
 print("Plural nouns refer to more than one person, place, or thing (e.g., dogs, pizzas, mountains)")
 print("Verbs ending in 'ing' are action words ending in 'ing' (e.g., running, swimming, reading)\n")
